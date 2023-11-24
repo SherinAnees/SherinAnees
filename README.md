@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SherinAnees
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 🌱 I’m currently working as React JS Developer
+
 
 <!---
 SherinAnees/SherinAnees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
